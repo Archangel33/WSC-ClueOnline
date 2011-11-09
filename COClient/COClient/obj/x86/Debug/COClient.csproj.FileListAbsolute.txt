@@ -1,0 +1,8 @@
+S:\S_Drive\Networking\COClient\COClient\bin\Debug\COClient.exe
+S:\S_Drive\Networking\COClient\COClient\bin\Debug\COClient.pdb
+S:\S_Drive\Networking\COClient\COClient\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\S_Drive\Networking\COClient\COClient\obj\x86\Debug\COClient.Properties.Resources.resources
+S:\S_Drive\Networking\COClient\COClient\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\S_Drive\Networking\COClient\COClient\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\S_Drive\Networking\COClient\COClient\obj\x86\Debug\COClient.exe
+S:\S_Drive\Networking\COClient\COClient\obj\x86\Debug\COClient.pdb

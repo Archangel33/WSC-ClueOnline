@@ -1,0 +1,11 @@
+S:\S_Drive\Networking\COServer\COServer\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\S_Drive\Networking\COServer\COServer\obj\x86\Debug\COServer.FormServer.resources
+S:\S_Drive\Networking\COServer\COServer\obj\x86\Debug\COServer.Properties.Resources.resources
+S:\S_Drive\Networking\COServer\COServer\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\S_Drive\Networking\COServer\COServer\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\S_Drive\Networking\COServer\COServer\bin\Debug\COServer.exe
+S:\S_Drive\Networking\COServer\COServer\bin\Debug\COServer.pdb
+S:\S_Drive\Networking\COServer\COServer\obj\x86\Debug\COServer.exe
+S:\S_Drive\Networking\COServer\COServer\obj\x86\Debug\COServer.pdb
+S:\WSC-ClueOnline\COServer\COServer\obj\x86\Debug\COServer.exe
+S:\WSC-ClueOnline\COServer\COServer\obj\x86\Debug\COServer.pdb
